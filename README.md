@@ -1,7 +1,13 @@
+TASK 2
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 Title: Exploring Relationships and Patterns in the Titanic Dataset through Data Cleaning and EDA
-
-Description:
+TITLE
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Visualizing Population Characteristics with Bar Charts and Histograms
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DESCRIPTION
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In this project, I conducted data cleaning and exploratory data analysis (EDA) on the Titanic dataset sourced from Kaggle. The dataset contains information about passengers aboard the RMS Titanic, including demographic variables such as age, gender, ticket class, and survival status. The primary objective of this project was to explore relationships between variables and identify patterns and trends in the data.
 
 The first step involved loading the dataset and performing data cleaning procedures. This included handling missing values by imputing median age for missing age values and dropping rows with missing values in other columns such as "Embarked" for simplicity.
